@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<hmtl>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <title> Contador de Cliques </title>
+    </head>
+    
+    <body>
+        <h1><header class="principal"> Clique no Botão Abaixo</h1>
+
+        <div class="container">
+            <button type="button" class="btn" id=contador> CONTADOR DE CLIQUES </button>
+        </div>
+
+        <div class="contador">
+            <span id="mostrador" ></span> 
+        </div>
+
+    
+        <script>
+            var botao = document.getElementById("contador"),
+            count = 0;
+            botao.onclick = function () {
+                var mostrador = document.getElementById("mostrador")
+                count += (1);
+                mostrador.innerHTML = "A sua pontuação é: " + count;
+                };
+        </script>
+        
+    </body>
+</hmtl>

@@ -1,0 +1,48 @@
+.principal {
+    color: rgb(47, 107, 107);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Calibri;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    margin-top: 100px;
+}
+
+.container {
+  text-align: center;
+  font-weight: bold;
+}
+
+.contador{
+  color: rgb(47, 107, 107);
+    text-align: center;
+    font-size: x-large;
+    font-family: Calibri;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+    margin-top: 22px;
+}
+
+.btn {
+  display: inline-block;
+  background: rgb(102, 112, 102);
+  text-decoration: none;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+  font: inherit;
+  font-size: large;
+  color: #fff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin: 1.5em;
+  padding: 1em 2em;
+  border-radius: 0.5em;
+  box-shadow: 2.5px 2.5px 0 1px rgba(0, 0, 0, 0.733);
+
+  transition: box-shadow 0.3s ease; transition: 03.s;
+}
+
+.btn:active {
+  box-shadow: 0 0 0 0  rgba(0, 0, 0, 0.733), inset 2px 2px 0 1px rgba(0, 0, 0, 0.63);
+  transform: translate(2px, 2px);
+}
