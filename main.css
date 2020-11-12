@@ -1,7 +1,7 @@
 .principal {
     color: rgb(47, 107, 107);
     text-align: center;
-    font-size: xx-large;
+    font-size: 100px;
     font-family: Calibri;
     font-weight: bold;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
@@ -13,7 +13,7 @@
   font-weight: bold;
 }
 
-.contador{
+.resultado {
   color: rgb(47, 107, 107);
     text-align: center;
     font-size: x-large;
