@@ -6,5 +6,5 @@
 
 #### Primeira etapa: confecção em HTML da estrutura;
 #### Segunda etapa: utilização dos identificadores previamente estabelecidos em HTML para
-#### o devido uso das funções em Javascript;
+#### o devido uso das funções em Javascript (inserido no body);
 #### Terceira etapa: utilização de CSS para ajustes estéticos. 
