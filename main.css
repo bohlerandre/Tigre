@@ -1,7 +1,7 @@
 .principal {
     color: rgb(47, 107, 107);
     text-align: center;
-    font-size: 100px;
+    font-size: 5em;
     font-family: Calibri;
     font-weight: bold;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
@@ -16,7 +16,7 @@
 .resultado {
   color: rgb(47, 107, 107);
     text-align: center;
-    font-size: x-large;
+    font-size: 4em;
     font-family: Calibri;
     font-weight: bold;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
@@ -29,7 +29,7 @@
   text-decoration: none;
   text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
   font: inherit;
-  font-size: large;
+  font-size: 2em;
   color: #fff;
   outline: none;
   border: none;
